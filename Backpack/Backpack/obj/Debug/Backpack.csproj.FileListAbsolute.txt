@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\bin\Debug\Backpack.exe.config
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\bin\Debug\Backpack.exe
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\bin\Debug\Backpack.pdb
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\obj\Debug\Backpack.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\obj\Debug\Backpack.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\obj\Debug\Backpack.exe
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\obj\Debug\Backpack.pdb
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\bin\Debug\input_1.txt
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\bin\Debug\input_2.txt
+C:\Users\User\Desktop\Учёба\Комбинаторные алгоритмы\BackpackRepository\Backpack\Backpack\bin\Debug\input_3.txt
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\bin\Debug\input_1.txt
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\bin\Debug\input_2.txt
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\bin\Debug\input_3.txt
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\bin\Debug\Backpack.exe.config
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\bin\Debug\Backpack.exe
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\bin\Debug\Backpack.pdb
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\obj\Debug\Backpack.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\obj\Debug\Backpack.exe
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\obj\Debug\Backpack.pdb
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\BackpackRepository\Backpack\Backpack\obj\Debug\Backpack.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\bin\Debug\input_1.txt
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\bin\Debug\input_2.txt
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\bin\Debug\input_3.txt
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\bin\Debug\Backpack.exe.config
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\bin\Debug\Backpack.exe
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\bin\Debug\Backpack.pdb
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\obj\Debug\Backpack.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\obj\Debug\Backpack.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\obj\Debug\Backpack.exe
+C:\Users\User\Desktop\Учёба\Алгоритмы и анализ сложности\GitHubRepository\Backpack\Backpack\obj\Debug\Backpack.pdb
